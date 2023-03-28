@@ -1,0 +1,36 @@
+commit ad37b1accc18b1d6b2da91fb85ed31238cde444e (HEAD -> master, origin/master, origin/bug3, bug3)
+Author: Hristijan Deligjorgjiev <hristijan.deligjorgjiev@students.finki.ukim.mk>
+Date:   Fri Mar 24 16:58:13 2023 +0100
+
+    Fix method sumEvenNumbers
+
+commit 43305af1bea35b9713d63ea5f095d32d50ae52e7
+Merge: 89c7cb3 7c74406
+Author: Hristijan Deligjorgjiev <hristijan.deligjorgjiev@students.finki.ukim.mk>
+Date:   Mon Mar 27 23:19:00 2023 +0200
+
+    Merge branch 'bug2'
+
+commit 7c74406b6894b8fd5bdf8487a20c12bd618216bb (origin/bug2, bug2)
+Author: Hristijan Deligjorgjiev <hristijan.deligjorgjiev@students.finki.ukim.mk>
+Date:   Fri Mar 24 16:56:23 2023 +0100
+
+    Fix wrong condition in filterOddNumbers
+
+commit 89c7cb3f7714f991b03684eb90162ca4a8837bac (origin/bug1, bug1)
+Author: Hristijan Deligjorgjiev <hristijan.deligjorgjiev@students.finki.ukim.mk>
+Date:   Fri Mar 24 16:50:18 2023 +0100
+
+    Fix wrong loop for reading
+
+commit 2e84e0ef5b7d1ca7497d51f082d0a38885125d38
+Author: Hristijan Deligjorgjiev <hristijan.deligjorgjiev@students.finki.ukim.mk>
+Date:   Sun Mar 12 20:55:07 2023 +0100
+
+    Add java class
+
+commit 3bbab771455395302c0e7aad5a040c7b47c052f4
+Author: Hristijan Deligjorgjiev <hristijan.deligjorgjiev@students.finki.ukim.mk>
+Date:   Sun Mar 12 20:50:17 2023 +0100
+
+    Initial commit
